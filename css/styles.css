@@ -75,7 +75,8 @@ p {
 }
 
 .cursive {
-    font-family: 'Dancing Script', cursive;
+    /*font-family: 'Dancing Script'; 
+    /*,cursive;*/
     text-transform: none;
 }
 
@@ -521,4 +522,16 @@ img::selection {
 img::-moz-selection {
     color: #fff;
     background: 0 0;
+}
+
+#texty{
+    height:30px;
+}
+
+#textyTwo{
+    height:30px;
+}
+
+#textyThree{
+    height: 30px;
 }
