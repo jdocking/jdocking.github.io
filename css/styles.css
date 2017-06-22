@@ -535,3 +535,7 @@ img::-moz-selection {
 #textyThree{
     height: 30px;
 }
+
+#pictureIntro{
+    text-align: center;
+}

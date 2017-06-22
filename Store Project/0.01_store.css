@@ -1,0 +1,75 @@
+
+.Heading{background-color: transparent;}
+
+
+h1{font-size:30px;color:blue;}
+
+.links{
+		margin:25px 50px 50px 50px;
+	    padding: 10px 10px 10px 10px;
+}
+
+.titleBackground{
+	background-color: transparent;
+}
+
+#home{
+
+padding: 10px 0px 10px 10px;
+
+}
+
+#firstPic{
+	margin:20px 0px 0px 0px;
+
+}
+
+#title{
+	text-align: center;
+	color: blue;
+}
+#products{
+	padding: 50px 0px 50px 50px;
+
+}
+
+#blog{
+	padding: 50px 50px 50px 50px;
+}
+
+#about{
+	padding: 0px 0px 0px 0px
+}
+
+#paragraph{
+	padding: 30px;
+	color: blue;
+	text-align: center;
+}
+.sales{
+		margin:50px 100px 100px 100px;
+	    padding: 10px 10px 10px 10px;
+	    text-align: center;
+}
+
+.productText{
+		margin:50px 50px 0px 50px;
+	    padding: 10px 10px 10px 10px;
+
+}
+
+#featured{
+	font-size: 20pt;
+	color:white;
+}
+#engines{
+	color: white;
+}
+
+#paddles{
+	color: white;
+}
+
+#seats{
+	color: white;
+}
